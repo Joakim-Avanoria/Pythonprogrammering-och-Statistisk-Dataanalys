@@ -3,12 +3,7 @@
 Här hittar du kursfilerna som hör till spellistan **Pythonprogrammering och Statistisk Dataanalys** på YouTube.
 
 ## Struktur
-- Varje **branch** i repot motsvarar en video i spellistan.
-- `main` innehåller bara denna README och översikt.
-- Exempel:  
-  - `lektion-1` → Variabler  
-  - `lektion-2` → Datatyper  
-  - osv.
+Varje **branch** i repot motsvarar en video i spellistan.
 
 ## Kom igång
 1. Klona repot:  
